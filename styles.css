@@ -1,6 +1,6 @@
 .title {
 	text-align: center;
-	font-family: 'Fnfont';
+	font-family: 'Sans Seirf';
 	color: #FFFFFF;
 }
 
@@ -9,7 +9,7 @@ a { color:inherit;
 
 .link {
 	text-align: center;
-	font-family: 'PhantomMuff 1.5';
+	font-family: 'Tahoma';
 	color: #FFFFFF;
 }
 
@@ -28,10 +28,11 @@ marquee {
     text-align: center;
     display: inline-block;
 		text-align: center;
-	font-family: 'VCR OSD Mono';
+	font-family: 'Arial';
 	color: #FFFFFF;
 }
 
 .construction {
 	text-align: center;
 }
+
